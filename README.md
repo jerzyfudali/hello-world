@@ -1,2 +1,3 @@
 # hello-world
 repozytorium próbne ver 002
+po co uczyć się obsługi panelu graficznego skoro wszystko można robić skrótami, dowiedzmy się...
